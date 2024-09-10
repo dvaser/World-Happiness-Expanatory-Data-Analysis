@@ -1,5 +1,5 @@
 # PROJECT's KAGGLE LINK : 
-**https://www.kaggle.com/code/dvaser/world-happiness-expanatory-data-analysis**
+***https://www.kaggle.com/code/dvaser/world-happiness-expanatory-data-analysis***
 
 <a href="https://www.kaggle.com/code/dvaser/world-happiness-expanatory-data-analysis">
     <img src="https://github.com/user-attachments/assets/b7249ad6-55af-43b0-9883-7c26b8f31d5e" style="width:75%;"></img>
@@ -19,7 +19,7 @@
 * Leading experts across fields - economics, psychology, survey analysis, national statistics health, public policy and more - describe how measurements of well-being can be used effectively to assess the progress of nations.
 * The reports review the state of happiness in the world today and show how the new science of happiness explains personal and national variations in happiness.
 
-![hapiness_smile](https://github.com/user-attachments/assets/d274856f-31a9-4bc4-b0f8-0aadf42822e7)
+<img src="https://github.com/user-attachments/assets/d274856f-31a9-4bc4-b0f8-0aadf42822e7" style="width:75%;"></img>
 
 ## Analysis Content
 1. [Python Libraries](#1)
