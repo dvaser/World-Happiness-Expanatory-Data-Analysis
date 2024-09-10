@@ -3,9 +3,6 @@
 
 <img src="https://github.com/user-attachments/assets/0805e39a-2a31-4250-a802-ceaa60525ced" style="width:75%;"></img>
 
-
-<br>
-
 # WORLD HAPPINESS EXPANATORY DATA ANALAYSIS
 
 ## What will you learn from this project?
