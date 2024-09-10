@@ -1,7 +1,7 @@
 # PROJECT's KAGGLE LINK : 
 **https://www.kaggle.com/code/dvaser/world-happiness-expanatory-data-analysis**
 
-![kaggle](https://github.com/user-attachments/assets/0805e39a-2a31-4250-a802-ceaa60525ced)
+<img src="https://github.com/user-attachments/assets/0805e39a-2a31-4250-a802-ceaa60525ced" style="width:75%;"></img>
 
 
 <br>
